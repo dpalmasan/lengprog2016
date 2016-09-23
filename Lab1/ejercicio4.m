@@ -21,7 +21,7 @@ else
 end
 
 % Notar que la logica es la misma, solo se debe cambiar el > por un <
-disp('El mayor numero ingresado es:')
+disp('El menor numero ingresado es:')
 if a < b
     if a < c
         disp(a)
