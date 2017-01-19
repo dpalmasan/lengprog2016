@@ -1,4 +1,4 @@
-Notar que todos los ejercicios habÌan sido realizados en pr·ctica, o cert·menes
+Notar que todos los ejercicios hab√≠an sido realizados en pr√°ctica, o cert√°menes
 anteriores, por lo que las soluciones estaban disponibles en el repositorio. El
 que obtuvo una nota inferior a 6 en este examen, es porque sencillamente no 
-estudiÛ.
+estudi√≥.
